@@ -2,7 +2,7 @@
   <div class="purple-background">
     <div class="hello">
       <v-icon class="gold">mdi-cat</v-icon>
-      <br />WeLcOmE tO cHaKo'S wOrLd
+      <br /> Welcome to Chaco's World 
     </div>
   </div>
 </template>
